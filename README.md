@@ -21,5 +21,6 @@ If using git clone you will then have to remove the git remote to this repo.
 
 ### Notes
 - Within each settings file you will need to specify a SECRET_KEY (which is a 50 character long random string).
+- If you need to generate a secret key then you can use this script to do it for you. https://gist.github.com/mattseymour/9205591
 
 This application has only been written so please state any issues you might have and I will aim to sort them out as soon as possible.
