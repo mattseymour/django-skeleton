@@ -33,7 +33,7 @@ SITE_ID=1
 
 ROOT_URLCONF = 'urls'
 
-WSGI_APPLICATION = 'wsgi.application'
+WSGI_APPLICATION = 'conf.wsgi.application'
 STATIC_URL = '/static/'
 MEDIA_URL = '/uploads/'
 
