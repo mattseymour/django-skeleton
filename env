@@ -1,0 +1,5 @@
+# collection of project environment variables which will be set at runtime
+
+DJANGO_SETTINGS_MODULE=settings.local
+SECRET_KEY=10101010101010101010101010101010101010101010101010
+
